@@ -74,3 +74,19 @@ Each operation directly modifies the array, and the result is sent back as a res
 
 ## Conclusion
 A REST API without a database is a fast, efficient, and easy way to create APIs for learning, prototyping, or showcasing functionality. It’s like a temporary workspace where you can manipulate data without worrying about setting up a database, making it an ideal choice for lightweight projects or rapid development.
+
+
+
+
+<div align="center">
+
+##### 🛡️ `All rights reserved by Sajib Bhattacharjee @2024`
+
+### 👨‍💻 `Created By-->`
+
+**&copy; `Sajib Bhattacharjee`**
+
+**💖 Dedicated to "Zahan" 💖**
+
+> > > > ### 🙏 Thanks a Lot for Visiting...!!!
+
