@@ -52,7 +52,7 @@ If you need to showcase how an API works but don’t want to bother with persist
 It’s a great way for beginners to practice API development before diving into databases.
 
 ## 💡 Example from the Code
-In the previous example, we created an API that handles user data using an array. Here's what happens:
+In this code, I've created an API that handles user data using an array. Here's what happens:
 
 - **Add a user**: You post a new user's data (name and email), which gets stored in the users array.
 - **Get users**: You can retrieve the current list of users from this array.
